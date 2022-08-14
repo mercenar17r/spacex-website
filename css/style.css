@@ -80,3 +80,12 @@ ul {
   transform-origin: left center;
   transition-duration: 0.4s;
 }
+/* Sections */
+section {
+  position: relative;
+  height: 100vh;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-transform: uppercase;
+}
